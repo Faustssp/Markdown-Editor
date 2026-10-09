@@ -1,0 +1,48 @@
+Copyright © 2026 Шаров Сергей. Все права защищены.
+Copyright © 2026 Sergei Sharov. All rights reserved.
+
+«MD Editor» — проприетарное программное обеспечение.
+"MD Editor" is proprietary software.
+
+────────────────────────────────────────────────────────────────────────────
+Русский
+────────────────────────────────────────────────────────────────────────────
+
+1. Права. Исходный код, собранное приложение, документация и графика принадлежат
+   Шаров Сергей. Копирование, изменение, распространение, публикация, сублицензирование
+   и любое коммерческое использование без предварительного письменного разрешения
+   правообладателя запрещены.
+
+2. Отсутствие гарантий. Программное обеспечение предоставляется «как есть», без
+   каких-либо явных или подразумеваемых гарантий, включая гарантии товарной
+   пригодности и пригодности для конкретной цели. Правообладатель не несёт
+   ответственности за любые убытки, возникшие в результате использования
+   программного обеспечения или невозможности его использования.
+
+3. Сторонние компоненты. Приложение включает библиотеки KaTeX (© 2013–2020 Khan
+   Academy and other contributors) и Mermaid (© 2014–2022 Knut Sveidqvist),
+   распространяемые по лицензии MIT. Их полные тексты лежат в каталоге
+   Web/vendor/licenses/ и доступны в приложении: «О программе» →
+   «Лицензии сторонних компонентов». На эти компоненты распространяется лицензия
+   MIT, а не настоящее уведомление.
+
+────────────────────────────────────────────────────────────────────────────
+English
+────────────────────────────────────────────────────────────────────────────
+
+1. Ownership. The source code, the built application, the documentation and the
+   artwork are owned by Sergei Sharov. Copying, modifying, distributing, publishing,
+   sublicensing and any commercial use without the prior written permission of the
+   copyright holder are prohibited.
+
+2. No warranty. The software is provided "as is", without warranty of any kind,
+   express or implied, including but not limited to the warranties of
+   merchantability and fitness for a particular purpose. The copyright holder is
+   not liable for any damages arising from the use of, or inability to use, the
+   software.
+
+3. Third-party components. The app bundles KaTeX (© 2013–2020 Khan Academy and
+   other contributors) and Mermaid (© 2014–2022 Knut Sveidqvist), distributed under
+   the MIT license. Their full texts are in Web/vendor/licenses/ and are available
+   in the app: "About MD Editor" → "Third-Party Licenses". Those components are
+   licensed under MIT, not under this notice.
